@@ -4,6 +4,7 @@
 
 
 ## 1. 🙋‍♂️ About Me
+- 👨‍💻 I'm **full stack web developer** and **Blockchain developer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -46,7 +47,7 @@
 ## 4. Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sameer-saini-a86b8a197/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sameersaini12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Sameer61610473"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sameersaini12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
