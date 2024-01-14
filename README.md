@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sameer</h1>
-<h3 align="center">React | Nodejs | JS | Solidity | web3js | Blockchain</h3>
+<h3 align="center">React | Nodejs | JS | Kotlin | Solidity | web3js | Blockchain</h3>
 
 
 ## 1. 🙋‍♂️ About Me
 - 👨‍💻 I'm **full stack web developer** and **Blockchain developer**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking for a **Internship**
+- 👯 I’m looking for a **JOB**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/sameersaini12)**
 
